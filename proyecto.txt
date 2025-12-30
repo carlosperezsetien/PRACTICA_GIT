@@ -1,5 +1,5 @@
 Primer apunte dentro de este proyecto.
-Esto es un ejemplo de modificacion.
+Esto es un ejemplo de modificación.
 
 Esta segunda anotación es para añadir mas texto.
 
