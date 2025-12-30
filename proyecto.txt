@@ -1,6 +1,8 @@
 Primer apunte dentro de este proyecto.
-Esto es un ejemplo de modificacion.
+Esto es un ejemplo de modificación.
 
 Esta segunda anotación es para añadir mas texto.
 
 Esta frase es para probar la rama nueva que hemos creado.
+
+Vamos a solucionar un conflicto.
